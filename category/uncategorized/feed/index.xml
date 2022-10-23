@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Managed IT San Diego</title>
-	<atom:link href="http:///category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 23 Oct 2022 23:22:15 +0000</lastBuildDate>
 	<language>en-US</language>
