@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: San diego	</title>
-	<atom:link href="http:///san-diego/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///san-diego/</link>
+	<atom:link href="/san-diego/feed/" rel="self" type="application/rss+xml" />
+	<link>/san-diego/</link>
 	<description></description>
 	<lastBuildDate>Sun, 23 Oct 2022 23:17:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
