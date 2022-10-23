@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: How many MSP providers are there?	</title>
-	<atom:link href="http:///how-many-msp-providers-are-there/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///how-many-msp-providers-are-there/</link>
+	<atom:link href="/how-many-msp-providers-are-there/feed/" rel="self" type="application/rss+xml" />
+	<link>/how-many-msp-providers-are-there/</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 19:38:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
