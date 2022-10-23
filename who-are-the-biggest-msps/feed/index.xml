@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Who are the biggest MSPs?	</title>
-	<atom:link href="http:///who-are-the-biggest-msps/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///who-are-the-biggest-msps/</link>
+	<atom:link href="/who-are-the-biggest-msps/feed/" rel="self" type="application/rss+xml" />
+	<link>/who-are-the-biggest-msps/</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 19:39:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
